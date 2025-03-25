@@ -1,0 +1,26 @@
+[project]
+name = "translator"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Nevivaghani",email = "nevivaghani793@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers (>=4.50.0,<5.0.0)",
+    "torch (>=2.6.0,<3.0.0)",
+    "sentencepiece (>=0.2.0,<0.3.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+flask = "^3.1.0"
+flask-cors = "^5.0.1"
+requests = "^2.32.3"
+python-dotenv = "^1.0.1"
