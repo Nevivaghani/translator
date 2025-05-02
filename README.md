@@ -134,7 +134,6 @@ All dependencies are managed via Poetry.
 ![App Screenshot][def2]
 
 [def]: ./assets/trans1.png
-
 [def2]: ./assets/trans2.png
 
 
