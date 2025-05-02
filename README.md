@@ -42,7 +42,7 @@ Ensure you have Python 3.11 or higher installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nevivaghani/Language-Translator.git
 cd translator
 ```
 
